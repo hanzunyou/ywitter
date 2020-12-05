@@ -1,8 +1,6 @@
 import { authService } from "fbase";
 import React, { useState, useEffect } from "react";
 
-const inputStyles = {};
-
 const AuthForm = () => {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
