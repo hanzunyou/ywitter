@@ -30,7 +30,11 @@ function App() {
     return (
         <>
             {init ? (
-                <AppRouter refreshUser={refreshUser} isLoggedIN={Boolean(userObj)} userObj={userObj}/> 
+                <AppRouter 
+                    refreshUser={refreshUser} 
+                    isLoggedIN={Boolean(userObj)} 
+                    userObj={userObj}
+                /> 
             ) : ( 
                 "Initializing...." 
             )}

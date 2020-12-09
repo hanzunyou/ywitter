@@ -64,7 +64,8 @@ const YweetFactory = ({userObj}) => {
           <span>Add photos</span>
           <FontAwesomeIcon icon={faPlus} />
         </label>
-          <input id="attach-file"
+          <input 
+            id="attach-file"
             type="file"
             accept="image/*"
             onChange={onFileChange}

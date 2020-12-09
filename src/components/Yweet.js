@@ -2,6 +2,7 @@ import { dbService, storageService } from "fbase";
 import React, { useState } from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faTrash, faPencilAlt} from "@fortawesome/free-solid-svg-icons";
+
 const Yweet = ({yweetObj, isOwner}) => {
     const [editing, setEditing] = useState(false);
     const [newYweet, setNewYweet] = useState(yweetObj.text);
@@ -27,10 +28,9 @@ const Yweet = ({yweetObj, isOwner}) => {
      setNewYweet(value);
     }
     return(
-        <div className="Yweet">
+        <div className="yweet">
             {editing ? (
                 <>
-                   <>
                     <form onSubmit={onSubmit} className="container yweetEdit">
                     <input
                            type="text"
@@ -46,23 +46,22 @@ const Yweet = ({yweetObj, isOwner}) => {
                     <span onClick={toggleEditing} className="formBtn cancelBtn">
                       Cancel
                     </span>
-                   </>
                 </>
             ) : ( 
-             <>
-               <h4>{yweetObj.text}</h4>
-               {yweetObj.attachmentUrl && <img src={yweetObj.attachmentUrl} />}
-                {isOwner && (
+               <>
+                 <h4>{yweetObj.text}</h4>
+                 {yweetObj.attachmentUrl && <img src={yweetObj.attachmentUrl} />}
+                  {isOwner && (
                     <div class="yweet__actions">
-                    <span onClick={onDeleteClick}>
-                      <FontAwesomeIcon icon={faTrash} />
-                    </span>
-                    <span onClick={toggleEditing}>
-                      <FontAwesomeIcon icon={faPencilAlt} />
-                    </span>
-                  </div>
-                )}
-             </>
+                      <span onClick={onDeleteClick}>
+                        <FontAwesomeIcon icon={faTrash} />
+                      </span>
+                      <span onClick={toggleEditing}>
+                        <FontAwesomeIcon icon={faPencilAlt} />
+                      </span>
+                    </div>
+                  )}
+               </>
             )}
         </div>
     );
