@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/git@github.com:hanzunyou/ywitter.git/static/css/main.caa94d6d.chunk.css",
-    "main.js": "/git@github.com:hanzunyou/ywitter.git/static/js/main.da91c8fe.chunk.js",
-    "main.js.map": "/git@github.com:hanzunyou/ywitter.git/static/js/main.da91c8fe.chunk.js.map",
-    "runtime-main.js": "/git@github.com:hanzunyou/ywitter.git/static/js/runtime-main.f09988c4.js",
-    "runtime-main.js.map": "/git@github.com:hanzunyou/ywitter.git/static/js/runtime-main.f09988c4.js.map",
-    "static/js/2.0f17aee5.chunk.js": "/git@github.com:hanzunyou/ywitter.git/static/js/2.0f17aee5.chunk.js",
-    "static/js/2.0f17aee5.chunk.js.map": "/git@github.com:hanzunyou/ywitter.git/static/js/2.0f17aee5.chunk.js.map",
-    "index.html": "/git@github.com:hanzunyou/ywitter.git/index.html",
-    "precache-manifest.39757bbe7e8bd920f0f843ca9940163e.js": "/git@github.com:hanzunyou/ywitter.git/precache-manifest.39757bbe7e8bd920f0f843ca9940163e.js",
-    "service-worker.js": "/git@github.com:hanzunyou/ywitter.git/service-worker.js",
-    "static/css/main.caa94d6d.chunk.css.map": "/git@github.com:hanzunyou/ywitter.git/static/css/main.caa94d6d.chunk.css.map",
-    "static/js/2.0f17aee5.chunk.js.LICENSE.txt": "/git@github.com:hanzunyou/ywitter.git/static/js/2.0f17aee5.chunk.js.LICENSE.txt"
+    "main.css": "/hanzunyou/ywitter.git/static/css/main.caa94d6d.chunk.css",
+    "main.js": "/hanzunyou/ywitter.git/static/js/main.18faf43e.chunk.js",
+    "main.js.map": "/hanzunyou/ywitter.git/static/js/main.18faf43e.chunk.js.map",
+    "runtime-main.js": "/hanzunyou/ywitter.git/static/js/runtime-main.a2633ef2.js",
+    "runtime-main.js.map": "/hanzunyou/ywitter.git/static/js/runtime-main.a2633ef2.js.map",
+    "static/js/2.682bd4c8.chunk.js": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js",
+    "static/js/2.682bd4c8.chunk.js.map": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js.map",
+    "index.html": "/hanzunyou/ywitter.git/index.html",
+    "precache-manifest.7d3ec368b6437a036bb7c1aca0cbd96c.js": "/hanzunyou/ywitter.git/precache-manifest.7d3ec368b6437a036bb7c1aca0cbd96c.js",
+    "service-worker.js": "/hanzunyou/ywitter.git/service-worker.js",
+    "static/css/main.caa94d6d.chunk.css.map": "/hanzunyou/ywitter.git/static/css/main.caa94d6d.chunk.css.map",
+    "static/js/2.682bd4c8.chunk.js.LICENSE.txt": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f09988c4.js",
-    "static/js/2.0f17aee5.chunk.js",
+    "static/js/runtime-main.a2633ef2.js",
+    "static/js/2.682bd4c8.chunk.js",
     "static/css/main.caa94d6d.chunk.css",
-    "static/js/main.da91c8fe.chunk.js"
+    "static/js/main.18faf43e.chunk.js"
   ]
 }
