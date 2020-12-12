@@ -3,7 +3,7 @@ import { dbService, storageService } from "fbase";
 import Yweet from "components/Yweet";
 import YweetFactory from "components/YweetFactory";
 
-const Home = ({userObj}) => {
+const Home = ({ userObj }) => {
     const [yweets, setYweets] = useState([]);
     useEffect(() => {
         dbService.collection("yweets").onSnapshot((snapshot) => {
@@ -16,7 +16,7 @@ const Home = ({userObj}) => {
     }, []);
     return (
         <div className="container">
-            <YweetFactory userObj={userObj}/>
+            <YweetFactory userObj={userObj} />
             <div style={{ marginTop : 30}}>
                 {yweets.map((yweet) => (
                     <Yweet key={yweet.id} yweetObj={yweet} isOwner={yweet.creatorId === userObj.uid }  />

@@ -26,7 +26,7 @@ const Yweet = ({yweetObj, isOwner}) => {
         target : { value }, 
      } = event;
      setNewYweet(value);
-    }
+    };
     return(
         <div className="yweet">
             {editing ? (

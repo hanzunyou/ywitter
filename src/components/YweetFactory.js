@@ -13,7 +13,7 @@ const YweetFactory = ({userObj}) => {
         }
         event.preventDefault();
         let attachmentUrl = "";
-        if(attachment !== ""){
+        if(attachment !== "") {
             const attachmentRef = storageService.ref().child(`${userObj.uid}/${uuidv4()}`);
             const response = await attachmentRef.putString(attachment, "data_url");
             attachmentUrl = await response.ref.getDownloadURL(); 
@@ -22,7 +22,7 @@ const YweetFactory = ({userObj}) => {
             text: yweet,
             createdAt: Date.now(),
             creatorId: userObj.uid,
-            attachmentUrl
+            attachmentUrl,
         };
         await dbService.collection("yweets").add(yweetObj);
         setYweet("");
@@ -36,7 +36,7 @@ const YweetFactory = ({userObj}) => {
      };
      const onFileChange = (event) => {
          const {
-             target: {files}, 
+             target: { files }, 
          } = event;
          const theFile = files[0];
          const reader = new FileReader();

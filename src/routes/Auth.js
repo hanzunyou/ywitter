@@ -5,9 +5,9 @@ import { authService, firebaseInstance } from "fbase";
 import AuthForm from "components/AuthForm";
 
 const Auth = () => {
-    const onSocialClick = async(event) => {
+    const onSocialClick = async (event) => {
         const {
-            target : {name},
+            target : { name },
         } = event;
         let provider;
         if(name === "google"){
