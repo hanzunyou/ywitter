@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6786079e38ba3f4a721d04427076f3c",
+    "revision": "51014cac45be33caa634905e8a370dd1",
     "url": "/hanzunyou/ywitter.git/index.html"
   },
   {
-    "revision": "b2c1257ad6d813398340",
-    "url": "/hanzunyou/ywitter.git/static/css/main.caa94d6d.chunk.css"
+    "revision": "f2b13487fdf7197e65ab",
+    "url": "/hanzunyou/ywitter.git/static/css/main.d32110b4.chunk.css"
   },
   {
     "revision": "38e0bd6b3afe9d54ece0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2c1257ad6d813398340",
+    "revision": "f2b13487fdf7197e65ab",
     "url": "/hanzunyou/ywitter.git/static/js/main.dff028b8.chunk.js"
   },
   {
