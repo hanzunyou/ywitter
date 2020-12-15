@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hanzunyou/ywitter.git/static/css/main.d32110b4.chunk.css",
-    "main.js": "/hanzunyou/ywitter.git/static/js/main.dff028b8.chunk.js",
-    "main.js.map": "/hanzunyou/ywitter.git/static/js/main.dff028b8.chunk.js.map",
-    "runtime-main.js": "/hanzunyou/ywitter.git/static/js/runtime-main.a2633ef2.js",
-    "runtime-main.js.map": "/hanzunyou/ywitter.git/static/js/runtime-main.a2633ef2.js.map",
-    "static/js/2.682bd4c8.chunk.js": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js",
-    "static/js/2.682bd4c8.chunk.js.map": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js.map",
-    "index.html": "/hanzunyou/ywitter.git/index.html",
-    "precache-manifest.3e516d228827fb4e05cd386f9ee383a5.js": "/hanzunyou/ywitter.git/precache-manifest.3e516d228827fb4e05cd386f9ee383a5.js",
-    "service-worker.js": "/hanzunyou/ywitter.git/service-worker.js",
-    "static/css/main.d32110b4.chunk.css.map": "/hanzunyou/ywitter.git/static/css/main.d32110b4.chunk.css.map",
-    "static/js/2.682bd4c8.chunk.js.LICENSE.txt": "/hanzunyou/ywitter.git/static/js/2.682bd4c8.chunk.js.LICENSE.txt"
+    "main.css": "/ywitter/static/css/main.d32110b4.chunk.css",
+    "main.js": "/ywitter/static/js/main.9d970acf.chunk.js",
+    "main.js.map": "/ywitter/static/js/main.9d970acf.chunk.js.map",
+    "runtime-main.js": "/ywitter/static/js/runtime-main.89b563c2.js",
+    "runtime-main.js.map": "/ywitter/static/js/runtime-main.89b563c2.js.map",
+    "static/js/2.91f383db.chunk.js": "/ywitter/static/js/2.91f383db.chunk.js",
+    "static/js/2.91f383db.chunk.js.map": "/ywitter/static/js/2.91f383db.chunk.js.map",
+    "index.html": "/ywitter/index.html",
+    "precache-manifest.fa639b8dcb363f5342c11c9b8787335d.js": "/ywitter/precache-manifest.fa639b8dcb363f5342c11c9b8787335d.js",
+    "service-worker.js": "/ywitter/service-worker.js",
+    "static/css/main.d32110b4.chunk.css.map": "/ywitter/static/css/main.d32110b4.chunk.css.map",
+    "static/js/2.91f383db.chunk.js.LICENSE.txt": "/ywitter/static/js/2.91f383db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2633ef2.js",
-    "static/js/2.682bd4c8.chunk.js",
+    "static/js/runtime-main.89b563c2.js",
+    "static/js/2.91f383db.chunk.js",
     "static/css/main.d32110b4.chunk.css",
-    "static/js/main.dff028b8.chunk.js"
+    "static/js/main.9d970acf.chunk.js"
   ]
 }
