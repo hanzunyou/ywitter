@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27773661ea829961dae5b3cd14dc21b0",
+    "revision": "006d029b17f15883063b46fe3daf4378",
     "url": "/ywitter/index.html"
   },
   {
-    "revision": "c9e6891e58fd741018d9",
+    "revision": "0c1bbcc8af9629b56b22",
     "url": "/ywitter/static/css/main.d32110b4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ywitter/static/js/2.91f383db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9e6891e58fd741018d9",
-    "url": "/ywitter/static/js/main.9d970acf.chunk.js"
+    "revision": "0c1bbcc8af9629b56b22",
+    "url": "/ywitter/static/js/main.c3f0988f.chunk.js"
   },
   {
     "revision": "3b9c4cfe5d7deead44b5",
