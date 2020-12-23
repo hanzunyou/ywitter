@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ywitter/static/css/main.d32110b4.chunk.css",
-    "main.js": "/ywitter/static/js/main.b3c40635.chunk.js",
-    "main.js.map": "/ywitter/static/js/main.b3c40635.chunk.js.map",
+    "main.js": "/ywitter/static/js/main.3175c225.chunk.js",
+    "main.js.map": "/ywitter/static/js/main.3175c225.chunk.js.map",
     "runtime-main.js": "/ywitter/static/js/runtime-main.89b563c2.js",
     "runtime-main.js.map": "/ywitter/static/js/runtime-main.89b563c2.js.map",
     "static/js/2.79915309.chunk.js": "/ywitter/static/js/2.79915309.chunk.js",
     "static/js/2.79915309.chunk.js.map": "/ywitter/static/js/2.79915309.chunk.js.map",
     "index.html": "/ywitter/index.html",
-    "precache-manifest.40eb98cef8a80a6fb4733394b09d4417.js": "/ywitter/precache-manifest.40eb98cef8a80a6fb4733394b09d4417.js",
+    "precache-manifest.b9772af1276b233675dadd99f6b83233.js": "/ywitter/precache-manifest.b9772af1276b233675dadd99f6b83233.js",
     "service-worker.js": "/ywitter/service-worker.js",
     "static/css/main.d32110b4.chunk.css.map": "/ywitter/static/css/main.d32110b4.chunk.css.map",
     "static/js/2.79915309.chunk.js.LICENSE.txt": "/ywitter/static/js/2.79915309.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.89b563c2.js",
     "static/js/2.79915309.chunk.js",
     "static/css/main.d32110b4.chunk.css",
-    "static/js/main.b3c40635.chunk.js"
+    "static/js/main.3175c225.chunk.js"
   ]
 }
