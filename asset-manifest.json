@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ywitter/static/css/main.d32110b4.chunk.css",
-    "main.js": "/ywitter/static/js/main.b3c40635.chunk.js",
-    "main.js.map": "/ywitter/static/js/main.b3c40635.chunk.js.map",
+    "main.js": "/ywitter/static/js/main.c3f0988f.chunk.js",
+    "main.js.map": "/ywitter/static/js/main.c3f0988f.chunk.js.map",
     "runtime-main.js": "/ywitter/static/js/runtime-main.89b563c2.js",
     "runtime-main.js.map": "/ywitter/static/js/runtime-main.89b563c2.js.map",
-    "static/js/2.79915309.chunk.js": "/ywitter/static/js/2.79915309.chunk.js",
-    "static/js/2.79915309.chunk.js.map": "/ywitter/static/js/2.79915309.chunk.js.map",
+    "static/js/2.91f383db.chunk.js": "/ywitter/static/js/2.91f383db.chunk.js",
+    "static/js/2.91f383db.chunk.js.map": "/ywitter/static/js/2.91f383db.chunk.js.map",
     "index.html": "/ywitter/index.html",
-    "precache-manifest.40eb98cef8a80a6fb4733394b09d4417.js": "/ywitter/precache-manifest.40eb98cef8a80a6fb4733394b09d4417.js",
+    "precache-manifest.7a74b71d68bfa713bc01b7aaa43ae459.js": "/ywitter/precache-manifest.7a74b71d68bfa713bc01b7aaa43ae459.js",
     "service-worker.js": "/ywitter/service-worker.js",
     "static/css/main.d32110b4.chunk.css.map": "/ywitter/static/css/main.d32110b4.chunk.css.map",
-    "static/js/2.79915309.chunk.js.LICENSE.txt": "/ywitter/static/js/2.79915309.chunk.js.LICENSE.txt"
+    "static/js/2.91f383db.chunk.js.LICENSE.txt": "/ywitter/static/js/2.91f383db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.89b563c2.js",
-    "static/js/2.79915309.chunk.js",
+    "static/js/2.91f383db.chunk.js",
     "static/css/main.d32110b4.chunk.css",
-    "static/js/main.b3c40635.chunk.js"
+    "static/js/main.c3f0988f.chunk.js"
   ]
 }
